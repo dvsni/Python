@@ -16,7 +16,6 @@ print(distance)
 
 # Улучшение кода:
 
-
 def find_distance():
     point_a = [int(input('Введите {i} точки A') for i in 'xy')]
     point_b = [int(input('Введите {i} точки B') for i in 'xy')]
